@@ -17,7 +17,7 @@ Open to discussing causal inference in baseball.
 
 ## Interests and Skills 
 
-R, Stata, Git, causal inference, machine learning, data visualization.
+Python, R, Stata, Git, causal inference, machine learning, data visualization.
 
 ## Contact Information
 
