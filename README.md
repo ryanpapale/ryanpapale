@@ -6,7 +6,7 @@ Current interests: causal inference, machine learning, baseball analytics.
 
 ## Current Work
 
-Building a Markov chain baseball simulation (not public).
+Building a baseball simulation (not public).
 
 Open to discussing causal inference in baseball.
 
