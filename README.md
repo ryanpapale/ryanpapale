@@ -6,6 +6,8 @@ University of Florida
 PhD Economics (Bristol, 2025)\
 Research focused on labor and education
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ryanpapale&hide=html,css&langs_count=2&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=ryanpapale&hide=html,css&langs_count=2&theme=dark_github)
+
 ## Interests
 * Sports Analytics
 * Causal Inference
